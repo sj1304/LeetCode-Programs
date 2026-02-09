@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [3100-water-bottles-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/3100-water-bottles-ii) |
+## Simulation
+|  |
+| ------- |
+| [3100-water-bottles-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/3100-water-bottles-ii) |
 <!---LeetCode Topics End-->
