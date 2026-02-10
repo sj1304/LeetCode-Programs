@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sj1304/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -47,4 +48,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sj1304/LeetCode-Programs/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
