@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sj1304/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3100-water-bottles-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/3100-water-bottles-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sj1304/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sj1304/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
