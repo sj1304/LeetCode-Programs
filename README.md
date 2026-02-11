@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sj1304/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
+| [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -53,4 +54,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
