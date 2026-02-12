@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/sj1304/LeetCode-Programs/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sj1304/LeetCode-Programs/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/sj1304/LeetCode-Programs/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Dynamic Programming
 |  |
 | ------- |
