@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sj1304/LeetCode-Programs/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sj1304/LeetCode-Programs/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sj1304/LeetCode-Programs/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sj1304/LeetCode-Programs/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
