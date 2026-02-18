@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
+| [1518-water-bottles](https://github.com/sj1304/LeetCode-Programs/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/3100-water-bottles-ii) |
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/sj1304/LeetCode-Programs/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/3100-water-bottles-ii) |
 ## Binary Search
 |  |
