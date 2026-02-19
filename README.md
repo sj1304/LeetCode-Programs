@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1304/LeetCode-Programs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sj1304/LeetCode-Programs/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sj1304/LeetCode-Programs/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sj1304/LeetCode-Programs/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
 | [1518-water-bottles](https://github.com/sj1304/LeetCode-Programs/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/3100-water-bottles-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sj1304/LeetCode-Programs/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sj1304/LeetCode-Programs/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sj1304/LeetCode-Programs/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/sj1304/LeetCode-Programs/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sj1304/LeetCode-Programs/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Dynamic Programming
