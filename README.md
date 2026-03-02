@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sj1304/LeetCode-Programs/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1304/LeetCode-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sj1304/LeetCode-Programs/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sj1304/LeetCode-Programs/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/sj1304/LeetCode-Programs/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1304/LeetCode-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sj1304/LeetCode-Programs/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
