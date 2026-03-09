@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sj1304/LeetCode-Programs/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/sj1304/LeetCode-Programs/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sj1304/LeetCode-Programs/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sj1304/LeetCode-Programs/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/sj1304/LeetCode-Programs/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sj1304/LeetCode-Programs/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sj1304/LeetCode-Programs/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Dynamic Programming
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sj1304/LeetCode-Programs/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sj1304/LeetCode-Programs/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
