@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sj1304/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sj1304/LeetCode-Programs/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sj1304/LeetCode-Programs/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1304/LeetCode-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sj1304/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/sj1304/LeetCode-Programs/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
