@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sj1304/LeetCode-Programs/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1304/LeetCode-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sj1304/LeetCode-Programs/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/sj1304/LeetCode-Programs/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sj1304/LeetCode-Programs/tree/master/0704-binary-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sj1304/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/sj1304/LeetCode-Programs/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/sj1304/LeetCode-Programs/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
