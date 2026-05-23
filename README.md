@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -165,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sj1304/LeetCode-Programs/tree/master/0015-3sum) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
