@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sj1304/LeetCode-Programs/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sj1304/LeetCode-Programs/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sj1304/LeetCode-Programs/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/sj1304/LeetCode-Programs/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sj1304/LeetCode-Programs/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0344-reverse-string) |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0543-diameter-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sj1304/LeetCode-Programs/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
