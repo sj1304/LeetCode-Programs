@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -178,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
