@@ -118,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
