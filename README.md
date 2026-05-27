@@ -120,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sj1304/LeetCode-Programs/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sj1304/LeetCode-Programs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sj1304/LeetCode-Programs/tree/master/0207-course-schedule) |
 ## Union-Find
 |  |
 | ------- |
@@ -195,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sj1304/LeetCode-Programs/tree/master/0155-min-stack) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sj1304/LeetCode-Programs/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sj1304/LeetCode-Programs/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
