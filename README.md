@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sj1304/LeetCode-Programs/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sj1304/LeetCode-Programs/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sj1304/LeetCode-Programs/tree/master/0070-climbing-stairs) |
 | [1518-water-bottles](https://github.com/sj1304/LeetCode-Programs/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/3100-water-bottles-ii) |
 ## Simulation
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sj1304/LeetCode-Programs/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sj1304/LeetCode-Programs/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/sj1304/LeetCode-Programs/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1304/LeetCode-Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sj1304/LeetCode-Programs/tree/master/0152-maximum-product-subarray) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sj1304/LeetCode-Programs/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sj1304/LeetCode-Programs/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
