@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/sj1304/LeetCode-Programs/tree/master/1143-longest-common-subsequence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sj1304/LeetCode-Programs/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sj1304/LeetCode-Programs/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sj1304/LeetCode-Programs/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sj1304/LeetCode-Programs/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/sj1304/LeetCode-Programs/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
