@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/sj1304/LeetCode-Programs/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sj1304/LeetCode-Programs/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sj1304/LeetCode-Programs/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sj1304/LeetCode-Programs/tree/master/0066-plus-one) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1304/LeetCode-Programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sj1304/LeetCode-Programs/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/sj1304/LeetCode-Programs/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sj1304/LeetCode-Programs/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sj1304/LeetCode-Programs/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sj1304/LeetCode-Programs/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sj1304/LeetCode-Programs/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/sj1304/LeetCode-Programs/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/sj1304/LeetCode-Programs/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0344-reverse-string) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sj1304/LeetCode-Programs/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sj1304/LeetCode-Programs/tree/master/0049-group-anagrams) |
 ## Tree
 |  |
 | ------- |
