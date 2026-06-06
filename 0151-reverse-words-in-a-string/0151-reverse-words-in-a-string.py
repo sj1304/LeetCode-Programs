@@ -1,4 +1,5 @@
 class Solution(object):
+    """
     def reverseWords(self, s):
         # Remove extra spaces
         s = " ".join(s.split())
@@ -22,4 +23,32 @@ class Solution(object):
         while left < right:
             s[left], s[right] = s[right], s[left]
             left += 1
-            right -= 1
+            right -= 1"""
+
+    def reverseWords(self,s):
+        words=s.split()
+        first=0
+        second=len(words)-1
+        print(words)
+
+        while(first<second):
+            words[first],words[second]=words[second],words[first]
+            first+=1
+            second-=1
+        
+        return " ".join(words)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
