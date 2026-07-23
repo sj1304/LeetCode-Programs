@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/sj1304/LeetCode-Programs/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sj1304/LeetCode-Programs/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/sj1304/LeetCode-Programs/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/sj1304/LeetCode-Programs/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/sj1304/LeetCode-Programs/tree/master/0619-biggest-single-number) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sj1304/LeetCode-Programs/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/sj1304/LeetCode-Programs/tree/master/1683-invalid-tweets) |
