@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sj1304/LeetCode-Programs/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/sj1304/LeetCode-Programs/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sj1304/LeetCode-Programs/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/sj1304/LeetCode-Programs/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sj1304/LeetCode-Programs/tree/master/0704-binary-search) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sj1304/LeetCode-Programs/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sj1304/LeetCode-Programs/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sj1304/LeetCode-Programs/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sj1304/LeetCode-Programs/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sj1304/LeetCode-Programs/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sj1304/LeetCode-Programs/tree/master/0560-subarray-sum-equals-k) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sj1304/LeetCode-Programs/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sj1304/LeetCode-Programs/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sj1304/LeetCode-Programs/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sj1304/LeetCode-Programs/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sj1304/LeetCode-Programs/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sj1304/LeetCode-Programs/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sj1304/LeetCode-Programs/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sj1304/LeetCode-Programs/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sj1304/LeetCode-Programs/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sj1304/LeetCode-Programs/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sj1304/LeetCode-Programs/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -260,4 +265,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sj1304/LeetCode-Programs/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sj1304/LeetCode-Programs/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sj1304/LeetCode-Programs/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sj1304/LeetCode-Programs/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
