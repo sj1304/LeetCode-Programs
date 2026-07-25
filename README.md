@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sj1304/LeetCode-Programs/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sj1304/LeetCode-Programs/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sj1304/LeetCode-Programs/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sj1304/LeetCode-Programs/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sj1304/LeetCode-Programs/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sj1304/LeetCode-Programs/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sj1304/LeetCode-Programs/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sj1304/LeetCode-Programs/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sj1304/LeetCode-Programs/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0189-rotate-array) |
 | [1518-water-bottles](https://github.com/sj1304/LeetCode-Programs/tree/master/1518-water-bottles) |
 | [3100-water-bottles-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/3100-water-bottles-ii) |
 ## Simulation
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sj1304/LeetCode-Programs/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sj1304/LeetCode-Programs/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sj1304/LeetCode-Programs/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sj1304/LeetCode-Programs/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/sj1304/LeetCode-Programs/tree/master/0680-valid-palindrome-ii) |
 ## String
